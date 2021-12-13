@@ -6,11 +6,11 @@ import java.util.List;
 
 /**
  * @author Dor Sror - 207271875
- * The Ass6Game Class - holds a main method for running the game.
+ * The GameInit Class - holds a main method for running the game.
  */
-public class Ass6Game {
+public class GameInit {
     /**
-     * The main method of Ass6Game.
+     * The main method of GameInit.
      * Creates a game instance and sets the levels order according to args.
      * @param args The arguments sent to the class - if there are no arguments,
      *             the game initializes a list with all levels in order.
