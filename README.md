@@ -15,24 +15,32 @@ can be closed by pressing the Space key.
 # Levels and Prompts
 This project contains four levels:
 1 - Direct Hit
+
 ![Arkanoid Direct Hit](https://user-images.githubusercontent.com/30572278/145772918-6bade7f0-9029-4d9c-abde-2fee71701cde.png)
 
 2 - Wide Easy
+
 ![Arkanoid Wide Easy](https://user-images.githubusercontent.com/30572278/145773143-82dae97b-0521-455c-95dd-23a088def071.png)
 
 3 - Green 3
+
 ![Arkanoid Green 3](https://user-images.githubusercontent.com/30572278/145773382-5efe4c72-795f-4dc4-a05f-febfbc13466a.png)
 
 4 - Final Four
+
 ![Arkanoid Final Four 1](https://user-images.githubusercontent.com/30572278/145773633-23c09410-a2b9-46a9-80f5-981231b10630.png)
 ![Arkanoid Final Four 2](https://user-images.githubusercontent.com/30572278/145774226-d4ddc672-2c20-4b6f-a76d-4a12b3a34fc3.png)
 
+
 There are also three more screens that indicate the state of the game:
 You Won!
+
 ![Arkanoid You Won](https://user-images.githubusercontent.com/30572278/145775555-a9229f75-2765-43bf-ac7c-37c9e719eeb2.png)
 
 Paused
+
 ![Arkanoid Paused](https://user-images.githubusercontent.com/30572278/145775674-b8b75449-edbc-4928-bef6-57533527218f.png)
 
 You Lost!
+
 ![Arkanoid You Lost](https://user-images.githubusercontent.com/30572278/145774933-cc9c75a8-c589-4239-9fce-eec31c459570.png)
