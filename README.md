@@ -32,15 +32,8 @@ This project contains four levels:
 ![Arkanoid Final Four 2](https://user-images.githubusercontent.com/30572278/145774226-d4ddc672-2c20-4b6f-a76d-4a12b3a34fc3.png)
 
 
-There are also three more screens that indicate the state of the game:
-You Won!
+There are also three more screens that indicate the state of the game: You Won!, Paused and You Lost!
 
 ![Arkanoid You Won](https://user-images.githubusercontent.com/30572278/145775555-a9229f75-2765-43bf-ac7c-37c9e719eeb2.png)
-
-Paused
-
 ![Arkanoid Paused](https://user-images.githubusercontent.com/30572278/145775674-b8b75449-edbc-4928-bef6-57533527218f.png)
-
-You Lost!
-
 ![Arkanoid You Lost](https://user-images.githubusercontent.com/30572278/145774933-cc9c75a8-c589-4239-9fce-eec31c459570.png)
