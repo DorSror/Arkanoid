@@ -8,7 +8,7 @@ The game is programmed entirely in the Java programming language and uses the bi
 # Arkanoid
 The game contains four levels and accepts as arguments integers which define the order of the four given levels. A level can be added to the order
 of levels a multiple amount of times and in changing order, and if an invalid level is selected (i.e. level 5 or 'Direct Hit') it will be ignored.
-You can press P to stop the game and Space to resume playing.
+You can press P to pause the game and Space to resume playing.
 When finishing all the levels in the given order, or losing at a level, a screen showing if you won or lost will pop up and show your final score. It
 can be closed by pressing the Space key.
 
