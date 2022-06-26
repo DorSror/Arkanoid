@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author Dor Sror - 207271875
+ * @author Dor Sror
  * The DirectHit class, implements LevelInformation - the first default level of the game.
  */
 public class DirectHit implements LevelInformation {

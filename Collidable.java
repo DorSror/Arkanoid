@@ -1,5 +1,5 @@
 /**
- * @author Dor Sror - 207271875
+ * @author Dor Sror
  * The collidable interface - holds 2 methods.
  */
 public interface Collidable {

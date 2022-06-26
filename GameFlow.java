@@ -3,7 +3,7 @@ import biuoop.KeyboardSensor;
 import java.util.List;
 
 /**
- * @author Dor Sror - 207271875
+ * @author Dor Sror
  * The GameFlow class - runs the game in a flow according to a list of levels.
  */
 public class GameFlow {

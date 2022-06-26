@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author Dor Sror - 207271875
+ * @author Dor Sror
  * A rectangle represented by a Point (upper left point of the rectangle), width and height.
  */
 public class Rectangle {

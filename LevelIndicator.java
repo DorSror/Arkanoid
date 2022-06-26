@@ -2,7 +2,7 @@ import biuoop.DrawSurface;
 import java.awt.Color;
 
 /**
- * @author Dor Sror - 207271875
+ * @author Dor Sror
  * The LevelIndicator class, implements Sprite interface - a sprite that holds the current level's name
  * and draws it on a DrawSurface.
  */

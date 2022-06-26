@@ -1,5 +1,5 @@
 /**
- * @author Dor Sror - 207271875
+ * @author Dor Sror
  * A listener that listens for hits and removes balls from a game.
  * Holds references for a game instance and a counter of the remaining balls.
  */

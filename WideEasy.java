@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author Dor Sror - 207271875
+ * @author Dor Sror
  * The WideEasy class, implements LevelInformation - the second default level of the game.
  */
 public class WideEasy implements LevelInformation {

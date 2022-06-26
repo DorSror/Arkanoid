@@ -1,5 +1,5 @@
 /**
- * @author Dor Sror - 207271875
+ * @author Dor Sror
  * The collision info of the collision - holds the point of collision and the object involved in the collision.
  */
 public class CollisionInfo {

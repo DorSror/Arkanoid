@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author Dor Sror - 207271875
+ * @author Dor Sror
  * Represents a Block made by a Rectangle shape and color.
  */
 public class Block implements Collidable, Sprite, HitNotifier {

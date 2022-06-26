@@ -1,5 +1,5 @@
 /**
- * @author Dor Sror - 207271875
+ * @author Dor Sror
  * Represents the Velocity of an Object - Velocity specifies the change in
  * position on the `x` and the `y` axes.
  */

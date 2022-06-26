@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author Dor Sror - 207271875
+ * @author Dor Sror
  * The game's environment - holds a list of collidable objects.
  */
 public class GameEnvironment {

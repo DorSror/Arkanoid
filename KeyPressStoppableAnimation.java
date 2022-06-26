@@ -2,7 +2,7 @@ import biuoop.DrawSurface;
 import biuoop.KeyboardSensor;
 
 /**
- * @author Dor Sror - 207271875
+ * @author Dor Sror
  * The KeyPressStoppableAnimation class, implements Animation interface - draws an animation until a key
  * is pressed, and stops it accordingly.
  */

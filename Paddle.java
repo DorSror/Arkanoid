@@ -3,7 +3,7 @@ import biuoop.KeyboardSensor;
 import java.awt.Color;
 
 /**
- * @author Dor Sror - 207271875
+ * @author Dor Sror
  * Represents a Paddle made from a Rectangle shape and color. Holds a keyboard sensor for the game's GUI.
  */
 public class Paddle implements Collidable, Sprite {

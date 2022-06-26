@@ -39,3 +39,9 @@ There are also three more screens that indicate the state of the game: You Won!,
 ![Arkanoid Paused](https://user-images.githubusercontent.com/30572278/145775674-b8b75449-edbc-4928-bef6-57533527218f.png)
 
 ![Arkanoid You Lost](https://user-images.githubusercontent.com/30572278/145774933-cc9c75a8-c589-4239-9fce-eec31c459570.png)
+
+# Author's Notes
+Since this project was made in my freshman year, the code is very simplistic and amateur.
+This is a good project to start understanding the principles of OOP. Because of that, you may use the code however you like, whether it is to play the
+game, learn OOP comcepts from the code and from its mistakes or to simply copy or base your projects on parts of it.
+However, you may not use the biuoop-1.4.jar file since I do not own any licensing for it nor had any hand in writing it.

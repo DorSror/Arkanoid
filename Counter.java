@@ -1,5 +1,5 @@
 /**
- * @author Dor Sror - 207271875
+ * @author Dor Sror
  * A simple counter class, used to count an integer amount.
  * Can increase, decrease and return the current count.
  */

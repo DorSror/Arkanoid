@@ -3,7 +3,7 @@ import java.util.List;
 import biuoop.DrawSurface;
 
 /**
- * @author Dor Sror - 207271875
+ * @author Dor Sror
  * The game's sprite collection - holds a list of sprites.
  */
 public class SpriteCollection {

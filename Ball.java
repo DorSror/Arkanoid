@@ -2,7 +2,7 @@ import biuoop.DrawSurface;
 import java.awt.Color;
 
 /**
- * @author Dor Sror - 207271875
+ * @author Dor Sror
  * Represents a Ball made by a Point center, radius r, color and velocity.
  */
 public class Ball implements Sprite {

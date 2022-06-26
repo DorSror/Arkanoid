@@ -1,7 +1,7 @@
 import biuoop.DrawSurface;
 
 /**
- * @author Dor Sror - 207271875
+ * @author Dor Sror
  * The Animation interface - holds all methods that are needed for drawing animations.
  */
 public interface Animation {

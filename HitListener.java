@@ -1,5 +1,5 @@
 /**
- * @author Dor Sror - 207271875
+ * @author Dor Sror
  * The hit listener interface - holds 1 method.
  */
 public interface HitListener {

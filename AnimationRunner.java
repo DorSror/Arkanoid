@@ -3,7 +3,7 @@ import biuoop.GUI;
 import biuoop.Sleeper;
 
 /**
- * @author Dor Sror - 207271875
+ * @author Dor Sror
  * The AnimationRunner class - runs an animation
  */
 public class AnimationRunner {

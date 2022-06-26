@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author Dor Sror - 207271875
+ * @author Dor Sror
  * The FinalFour class, implements LevelInformation - the fourth default level of the game.
  */
 public class FinalFour implements LevelInformation {

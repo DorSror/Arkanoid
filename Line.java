@@ -1,7 +1,7 @@
 import java.util.List;
 
 /**
- * @author Dor Sror - 207271875
+ * @author Dor Sror
  * Represents a Line made by two points - start and end.
  */
 public class Line {

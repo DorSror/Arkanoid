@@ -1,7 +1,7 @@
 import biuoop.DrawSurface;
 
 /**
- * @author Dor Sror - 207271875
+ * @author Dor Sror
  * The PauseScreen class, implements Animation interface - a pause screen that shows a white background
  * with text on top of it.
  */

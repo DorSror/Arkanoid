@@ -4,7 +4,7 @@ import biuoop.KeyboardSensor;
 import java.awt.Color;
 
 /**
- * @author Dor Sror - 207271875
+ * @author Dor Sror
  * The game object - creates an 'Arkanoid' game instance, initializes and runs it.
  */
 public class GameLevel implements Animation {

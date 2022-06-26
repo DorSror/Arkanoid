@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author Dor Sror - 207271875
+ * @author Dor Sror
  * The Green3 class, implements LevelInformation - the third default level of the game.
  */
 public class Green3 implements LevelInformation {

@@ -2,7 +2,7 @@ import biuoop.DrawSurface;
 import java.awt.Color;
 
 /**
- * @author Dor Sror - 207271875
+ * @author Dor Sror
  * A score indicator that implements sprite, shows the current score.
  * Holds a reference to the current count of the score.
  */

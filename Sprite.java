@@ -1,7 +1,7 @@
 import biuoop.DrawSurface;
 
 /**
- * @author Dor Sror - 207271875
+ * @author Dor Sror
  * The sprite interface - holds 2 methods.
  */
 public interface Sprite {

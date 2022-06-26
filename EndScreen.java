@@ -2,7 +2,7 @@ import biuoop.DrawSurface;
 import java.awt.Color;
 
 /**
- * @author Dor Sror - 207271875
+ * @author Dor Sror
  * The EndScreen class, implements Animation interface - an ending screen that shows your final score
  * and wether you won or lost.
  */

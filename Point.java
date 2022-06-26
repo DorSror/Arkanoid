@@ -1,5 +1,5 @@
 /**
- * @author Dor Sror - 207271875
+ * @author Dor Sror
  * Represents a Point made by two coordinates - x, y.
  */
 public class Point {

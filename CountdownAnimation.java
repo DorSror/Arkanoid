@@ -4,7 +4,7 @@ import biuoop.Sleeper;
 import java.awt.Color;
 
 /**
- * @author Dor Sror - 207271875
+ * @author Dor Sror
  * The CountdownAnimation class, implements Animation interface - a countdown animation that counts down
  * from a given number for a given amount of time, on top of a game's level.
  */

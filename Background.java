@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author Dor Sror - 207271875
+ * @author Dor Sror
  * The Background class - holds a list of sprites that create a background.
  */
 public class Background implements Sprite {

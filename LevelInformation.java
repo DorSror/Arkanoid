@@ -1,7 +1,7 @@
 import java.util.List;
 
 /**
- * @author Dor Sror - 207271875
+ * @author Dor Sror
  * The LevelInformation interface - holds all methods and information about a level.
  */
 public interface LevelInformation {

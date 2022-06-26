@@ -1,5 +1,5 @@
 /**
- * @author Dor Sror - 207271875
+ * @author Dor Sror
  * A listener that listens for hits and changes the score accordingly.
  * Holds a references for a game's current score count.
  */
